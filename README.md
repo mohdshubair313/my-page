@@ -1,0 +1,1 @@
+# This is a basic front view of my first code of some html and css
